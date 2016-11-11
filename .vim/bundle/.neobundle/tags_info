@@ -1,0 +1,5 @@
+flake8-vim
+jedi-vim
+neobundle.vim
+supertab
+vim-indent-guides
